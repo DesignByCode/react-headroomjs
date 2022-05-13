@@ -6,6 +6,7 @@ npm install react-headroomjs
 ```
 
 ## How to use
+#### Example with Tailwindcss
 ```react
 <HeadRoom
     options={{
